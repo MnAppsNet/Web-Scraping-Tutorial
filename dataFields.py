@@ -13,6 +13,7 @@ class field:
     DATE = 'date'
     REVIEW_RATING = 'review_rating'
     TEXT = 'text'
+    PROCESSED_TEXT = 'processed_text'
     DATE_OF_VISIT = 'date_of_visit'
 
     REVIEWER = 'reviewer'
